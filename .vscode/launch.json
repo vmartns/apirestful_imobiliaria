@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Spring Boot-DiferencialApiApplication<apiDiferencial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.descomplica.projeto.apiDiferencial.DiferencialApiApplication",
+            "projectName": "apiDiferencial",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DiferencialApiApplication<apiDiferencial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.descomplica.projeto.apiDiferencial.DiferencialApiApplication",
+            "projectName": "apiDiferencial",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DiferencialApi<diferencialapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.descomplica.projeto.diferencialapi.DiferencialApi",
+            "projectName": "diferencialapi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
